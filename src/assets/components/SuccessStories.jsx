@@ -7,7 +7,7 @@ import SuccessFour from "./SuccessAssets/SuccessFour";
 
 const SuccessStories = () => {
 
-    const [filter,setFilter] = useState('')
+    const [filter,setFilter] = useState('successOne')
 
     const activeNav = 'border-b-8 border-blue-400 duration-300'
     return ( 
